@@ -1,0 +1,5 @@
+source_dir1 target_dir11
+source2 target22
+source_dir3 target_dir33
+source_dir target_dir
+pin pin2

@@ -1,0 +1,13 @@
+# build outputs
+*.o
+*.out
+*.exe
+bin/
+build/
+*.log
+.vscode/
+fss_manager
+fss_console
+worker
+fss_in
+fss_out
